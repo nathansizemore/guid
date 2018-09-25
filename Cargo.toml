@@ -1,0 +1,7 @@
+[package]
+name = "guid"
+version = "0.1.0"
+authors = ["Nathan Sizemore <nathanrsizemore@gmail.com>"]
+
+[dependencies]
+uuid = { version = "0.7", features = ["v4"] }
